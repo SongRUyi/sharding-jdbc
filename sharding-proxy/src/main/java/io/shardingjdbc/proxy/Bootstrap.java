@@ -30,7 +30,7 @@ public final class Bootstrap {
     
     /**
      * Main Entrance.
-     * 
+     * 入口
      * @param args startup arguments
      * @throws InterruptedException interrupted exception
      */
